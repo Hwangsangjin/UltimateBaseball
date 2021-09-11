@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghkdt\\source\\repos\\UltimateBaseball\\UltimateBaseball.csproj",
+      "projectUniqueName": "C:\\Users\\ghkdt\\Documents\\Git\\UltimateBaseball\\UltimateBaseball.csproj",
       "projectName": "UltimateBaseball",
-      "projectPath": "C:\\Users\\ghkdt\\source\\repos\\UltimateBaseball\\UltimateBaseball.csproj",
+      "projectPath": "C:\\Users\\ghkdt\\Documents\\Git\\UltimateBaseball\\UltimateBaseball.csproj",
       "packagesPath": "C:\\Users\\ghkdt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghkdt\\source\\repos\\UltimateBaseball\\obj\\",
+      "outputPath": "C:\\Users\\ghkdt\\Documents\\Git\\UltimateBaseball\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghkdt\\AppData\\Roaming\\NuGet\\NuGet.Config",
